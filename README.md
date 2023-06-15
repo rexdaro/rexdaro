@@ -3,10 +3,11 @@
 
 
 ---
-
+<!--
 [![Instagram](https://www.instagram.com/manuel_rivasb/)
 [![LinkedIn](https://www.linkedin.com/in/manuel-rivas-a56709200/)
 [![Web](https://manuel-rivas-frontend-developer.netlify.app/)
+-->
 
 ---
 
