@@ -15,6 +15,7 @@ Soy desarrollador frontend con experiencia en HTML, CSS, JavaScript y React, exp
 
 Siempre dispuesto al trabajo en equipo, full autodidacta y en aprendizaje continuo.
 
+Actualmente Estudiante en la Tecnicatura Superior en Programacion, En la UTN Mendoza.
 Estudiante Activo en Oracle Next Education (ONE) convenio con ALURA.
 Tambien Estudie en el Bootcamp de SoyHenry
 
@@ -37,6 +38,7 @@ E-mail: rexdaro@gmail.com
 [![Git](https://img.shields.io/badge/Git-b32c07?style=for-the-badge&logo=git&logoColor=white&labelColor=101010)]()
 [![Github](https://img.shields.io/badge/Github-5f5f5f?style=for-the-badge&logo=github&logoColor=white&labelColor=101010)]()
 [![VSCODE](https://img.shields.io/badge/VS-VSCode-1572B6?style=for-the-badge&logo=vscode3&logoColor=white&labelColor=101010)]()
+
 
 
 
