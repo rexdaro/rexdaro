@@ -11,7 +11,7 @@
 
 ---
 
-Soy desarrollador frontend con experiencia en HTML, CSS, JavaScript y React, experto en control de versiones con Git/GitHub y metodologías ágiles. Siempre dispuesto a aprender nuevas tecnologías y conocimientos para crecer profesionalmente y ofrecer soluciones creativas y eficientes para satisfacer las necesidades de los clientes en sus proyectos digitales. Actualmente sigo aprendiendo. Busco oportunidad de adquirir experiencia para desarrollarme profesionalmente.
+Soy desarrollador de software con experiencia en HTML, CSS, JavaScript y React, experto en control de versiones con Git/GitHub y metodologías ágiles. Siempre dispuesto a aprender nuevas tecnologías y conocimientos para crecer profesionalmente y ofrecer soluciones creativas y eficientes para satisfacer las necesidades de los clientes en sus proyectos digitales. Actualmente sigo aprendiendo. Busco oportunidad de adquirir experiencia para desarrollarme profesionalmente.
 
 Siempre dispuesto al trabajo en equipo, full autodidacta y en aprendizaje continuo.
 
@@ -38,6 +38,7 @@ E-mail: rexdaro@gmail.com
 [![Git](https://img.shields.io/badge/Git-b32c07?style=for-the-badge&logo=git&logoColor=white&labelColor=101010)]()
 [![Github](https://img.shields.io/badge/Github-5f5f5f?style=for-the-badge&logo=github&logoColor=white&labelColor=101010)]()
 [![VSCODE](https://img.shields.io/badge/VS-VSCode-1572B6?style=for-the-badge&logo=vscode3&logoColor=white&labelColor=101010)]()
+
 
 
 
